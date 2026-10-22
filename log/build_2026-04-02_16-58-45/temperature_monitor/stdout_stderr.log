@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/temperature_monitor/temperature_monitor.egg-info/PKG-INFO
+writing dependency_links to ../../build/temperature_monitor/temperature_monitor.egg-info/dependency_links.txt
+writing entry points to ../../build/temperature_monitor/temperature_monitor.egg-info/entry_points.txt
+writing requirements to ../../build/temperature_monitor/temperature_monitor.egg-info/requires.txt
+writing top-level names to ../../build/temperature_monitor/temperature_monitor.egg-info/top_level.txt
+reading manifest file '../../build/temperature_monitor/temperature_monitor.egg-info/SOURCES.txt'
+writing manifest file '../../build/temperature_monitor/temperature_monitor.egg-info/SOURCES.txt'
+running build
+running build_py
+copying temperature_monitor/speed_sub.py -> /home/daksh/ros2_ws/build/temperature_monitor/build/lib/temperature_monitor
+running install
+running install_lib
+copying /home/daksh/ros2_ws/build/temperature_monitor/build/lib/temperature_monitor/speed_sub.py -> /home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor
+byte-compiling /home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor/speed_sub.py to speed_sub.cpython-310.pyc
+running install_data
+  File "/home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor/speed_sub.py", line 20
+    elif speed >= 0.5 && speed <=1.5:
+                       ^
+SyntaxError: invalid syntax
+
+running install_egg_info
+removing '/home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/temperature_monitor/temperature_monitor.egg-info to /home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor-0.0.0-py3.10.egg-info
+running install_scripts
+Installing speed_p script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+Installing speed_s script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+Installing temp_pub script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+Installing temp_sub script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+writing list of installed files to '/home/daksh/ros2_ws/build/temperature_monitor/install.log'

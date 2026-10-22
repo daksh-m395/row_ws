@@ -1,0 +1,4 @@
+[console_scripts]
+client = py_srvcli.my_client:main
+service = py_srvcli.my_service:main
+

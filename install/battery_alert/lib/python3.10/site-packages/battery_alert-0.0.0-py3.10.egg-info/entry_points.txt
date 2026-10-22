@@ -1,0 +1,6 @@
+[console_scripts]
+battery_p = battery_alert.battery_pub:main
+battery_pub = battery_alert.battery_publisher:main
+battery_s = battery_alert.battery_sub:main
+battery_sub = battery_alert.battery_subscriber:main
+

@@ -1,0 +1,30 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/daksh/ros2_ws/build/urdf_demo
+-- Install configuration: ""
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/launch
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/launch/rsp.launch.py
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/urdf
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/urdf/example_robot.urdf.xacro
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/urdf/example_include.xacro
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/ament_index/resource_index/package_run_dependencies/urdf_demo
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/ament_index/resource_index/parent_prefix_path/urdf_demo
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/ament_prefix_path.sh
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/path.sh
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/path.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.bash
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.sh
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.zsh
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.dsv
+-- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/package.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/ament_index/resource_index/packages/urdf_demo
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/cmake/urdf_demoConfig.cmake
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/cmake/urdf_demoConfig-version.cmake
+-- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/package.xml

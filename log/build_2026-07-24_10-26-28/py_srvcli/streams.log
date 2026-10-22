@@ -1,0 +1,41 @@
+[0.650s] Invoking command in '/home/daksh/ros2_ws/src/py_srvcli': PYTHONPATH=/home/daksh/ros2_ws/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/daksh/ros2_ws/build/py_srvcli/build install --record /home/daksh/ros2_ws/build/py_srvcli/install.log --install-scripts $base/lib/py_srvcli --single-version-externally-managed install_data
+[0.795s] running egg_info
+[0.795s] creating ../../build/py_srvcli/py_srvcli.egg-info
+[0.795s] writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.795s] writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.795s] writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.795s] writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.795s] writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[0.795s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.796s] reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.797s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.797s] running build
+[0.797s] running build_py
+[0.797s] creating /home/daksh/ros2_ws/build/py_srvcli/build
+[0.797s] creating /home/daksh/ros2_ws/build/py_srvcli/build/lib
+[0.797s] creating /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.797s] copying py_srvcli/my_service.py -> /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.797s] copying py_srvcli/__init__.py -> /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.797s] copying py_srvcli/my_client.py -> /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.797s] running install
+[0.798s] running install_lib
+[0.798s] creating /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.798s] copying /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli/my_service.py -> /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.798s] copying /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.798s] copying /home/daksh/ros2_ws/build/py_srvcli/build/lib/py_srvcli/my_client.py -> /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.799s] byte-compiling /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/my_service.py to my_service.cpython-310.pyc
+[0.799s] byte-compiling /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/__init__.py to __init__.cpython-310.pyc
+[0.799s] byte-compiling /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/my_client.py to my_client.cpython-310.pyc
+[0.799s] running install_data
+[0.799s] creating /home/daksh/ros2_ws/install/py_srvcli/share/ament_index
+[0.799s] creating /home/daksh/ros2_ws/install/py_srvcli/share/ament_index/resource_index
+[0.799s] creating /home/daksh/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[0.800s] copying resource/py_srvcli -> /home/daksh/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[0.800s] copying package.xml -> /home/daksh/ros2_ws/install/py_srvcli/share/py_srvcli
+[0.800s] running install_egg_info
+[0.801s] Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info
+[0.801s] running install_scripts
+[0.814s] Installing client script to /home/daksh/ros2_ws/install/py_srvcli/lib/py_srvcli
+[0.814s] Installing service script to /home/daksh/ros2_ws/install/py_srvcli/lib/py_srvcli
+[0.815s] writing list of installed files to '/home/daksh/ros2_ws/build/py_srvcli/install.log'
+[0.835s] Invoked command in '/home/daksh/ros2_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/daksh/ros2_ws/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daksh/ros2_ws/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/daksh/ros2_ws/build/py_srvcli/build install --record /home/daksh/ros2_ws/build/py_srvcli/install.log --install-scripts $base/lib/py_srvcli --single-version-externally-managed install_data

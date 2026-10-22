@@ -1,0 +1,24 @@
+[0.670s] Invoking command in '/home/daksh/ros2_ws/src/temperature_monitor': PYTHONPATH=/home/daksh/ros2_ws/build/temperature_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/temperature_monitor build --build-base /home/daksh/ros2_ws/build/temperature_monitor/build install --record /home/daksh/ros2_ws/build/temperature_monitor/install.log --single-version-externally-managed install_data
+[0.808s] running egg_info
+[0.809s] writing ../../build/temperature_monitor/temperature_monitor.egg-info/PKG-INFO
+[0.809s] writing dependency_links to ../../build/temperature_monitor/temperature_monitor.egg-info/dependency_links.txt
+[0.809s] writing entry points to ../../build/temperature_monitor/temperature_monitor.egg-info/entry_points.txt
+[0.809s] writing requirements to ../../build/temperature_monitor/temperature_monitor.egg-info/requires.txt
+[0.809s] writing top-level names to ../../build/temperature_monitor/temperature_monitor.egg-info/top_level.txt
+[0.810s] reading manifest file '../../build/temperature_monitor/temperature_monitor.egg-info/SOURCES.txt'
+[0.811s] writing manifest file '../../build/temperature_monitor/temperature_monitor.egg-info/SOURCES.txt'
+[0.811s] running build
+[0.811s] running build_py
+[0.811s] running install
+[0.811s] running install_lib
+[0.812s] running install_data
+[0.812s] running install_egg_info
+[0.813s] removing '/home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor-0.0.0-py3.10.egg-info' (and everything under it)
+[0.813s] Copying ../../build/temperature_monitor/temperature_monitor.egg-info to /home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor-0.0.0-py3.10.egg-info
+[0.813s] running install_scripts
+[0.828s] Installing speed_p script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+[0.828s] Installing speed_s script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+[0.829s] Installing temp_pub script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+[0.829s] Installing temp_sub script to /home/daksh/ros2_ws/install/temperature_monitor/lib/temperature_monitor
+[0.829s] writing list of installed files to '/home/daksh/ros2_ws/build/temperature_monitor/install.log'
+[0.854s] Invoked command in '/home/daksh/ros2_ws/src/temperature_monitor' returned '0': PYTHONPATH=/home/daksh/ros2_ws/build/temperature_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/temperature_monitor build --build-base /home/daksh/ros2_ws/build/temperature_monitor/build install --record /home/daksh/ros2_ws/build/temperature_monitor/install.log --single-version-externally-managed install_data

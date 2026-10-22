@@ -1,0 +1,46 @@
+[0.694s] Invoking command in '/home/daksh/ros2_ws/src/battery_alert': PYTHONPATH=/home/daksh/ros2_ws/build/battery_alert/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/battery_alert build --build-base /home/daksh/ros2_ws/build/battery_alert/build install --record /home/daksh/ros2_ws/build/battery_alert/install.log --single-version-externally-managed install_data
+[0.831s] running egg_info
+[0.831s] creating ../../build/battery_alert/battery_alert.egg-info
+[0.832s] writing ../../build/battery_alert/battery_alert.egg-info/PKG-INFO
+[0.832s] writing dependency_links to ../../build/battery_alert/battery_alert.egg-info/dependency_links.txt
+[0.832s] writing entry points to ../../build/battery_alert/battery_alert.egg-info/entry_points.txt
+[0.832s] writing requirements to ../../build/battery_alert/battery_alert.egg-info/requires.txt
+[0.832s] writing top-level names to ../../build/battery_alert/battery_alert.egg-info/top_level.txt
+[0.833s] writing manifest file '../../build/battery_alert/battery_alert.egg-info/SOURCES.txt'
+[0.833s] reading manifest file '../../build/battery_alert/battery_alert.egg-info/SOURCES.txt'
+[0.833s] writing manifest file '../../build/battery_alert/battery_alert.egg-info/SOURCES.txt'
+[0.833s] running build
+[0.833s] running build_py
+[0.833s] creating /home/daksh/ros2_ws/build/battery_alert/build
+[0.833s] creating /home/daksh/ros2_ws/build/battery_alert/build/lib
+[0.833s] creating /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert
+[0.834s] copying battery_alert/battery_publisher.py -> /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert
+[0.834s] copying battery_alert/battery_subscriber.py -> /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert
+[0.834s] copying battery_alert/__init__.py -> /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert
+[0.834s] running install
+[0.834s] running install_lib
+[0.835s] creating /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert
+[0.835s] copying /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert/battery_publisher.py -> /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert
+[0.835s] copying /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert/battery_subscriber.py -> /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert
+[0.835s] copying /home/daksh/ros2_ws/build/battery_alert/build/lib/battery_alert/__init__.py -> /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert
+[0.835s] byte-compiling /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert/battery_publisher.py to battery_publisher.cpython-310.pyc
+[0.836s] byte-compiling /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert/battery_subscriber.py to battery_subscriber.cpython-310.pyc
+[0.836s]   File "/home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert/battery_publisher.py", line 1
+[0.836s]     mport rclpy
+[0.836s]           ^^^^^
+[0.836s] SyntaxError: invalid syntax
+[0.836s] 
+[0.837s] byte-compiling /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert/__init__.py to __init__.cpython-310.pyc
+[0.837s] running install_data
+[0.837s] creating /home/daksh/ros2_ws/install/battery_alert/share/ament_index
+[0.837s] creating /home/daksh/ros2_ws/install/battery_alert/share/ament_index/resource_index
+[0.837s] creating /home/daksh/ros2_ws/install/battery_alert/share/ament_index/resource_index/packages
+[0.837s] copying resource/battery_alert -> /home/daksh/ros2_ws/install/battery_alert/share/ament_index/resource_index/packages
+[0.837s] copying package.xml -> /home/daksh/ros2_ws/install/battery_alert/share/battery_alert
+[0.837s] running install_egg_info
+[0.838s] Copying ../../build/battery_alert/battery_alert.egg-info to /home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert-0.0.0-py3.10.egg-info
+[0.838s] running install_scripts
+[0.852s] Installing battery_pub script to /home/daksh/ros2_ws/install/battery_alert/lib/battery_alert
+[0.852s] Installing battery_sub script to /home/daksh/ros2_ws/install/battery_alert/lib/battery_alert
+[0.852s] writing list of installed files to '/home/daksh/ros2_ws/build/battery_alert/install.log'
+[0.881s] Invoked command in '/home/daksh/ros2_ws/src/battery_alert' returned '0': PYTHONPATH=/home/daksh/ros2_ws/build/battery_alert/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/battery_alert build --build-base /home/daksh/ros2_ws/build/battery_alert/build install --record /home/daksh/ros2_ws/build/battery_alert/install.log --single-version-externally-managed install_data

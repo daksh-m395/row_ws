@@ -1,0 +1,4 @@
+[console_scripts]
+pub = my_py_pkg.my_py_node:main
+sub = my_py_pkg.my_sub_node:main
+

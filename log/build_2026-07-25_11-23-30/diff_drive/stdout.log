@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/launch
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/launch/diff_drive.launch.py
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/urdf
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/urdf/diff_drive.urdf.xacro
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/worlds
+-- Installing: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/worlds/diff_drive.sdf
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/rviz
+-- Installing: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/rviz/diff_drive.rviz
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/ament_index/resource_index/package_run_dependencies/diff_drive
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/ament_index/resource_index/parent_prefix_path/diff_drive
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/environment/ament_prefix_path.sh
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/environment/path.sh
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/environment/path.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/local_setup.bash
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/local_setup.sh
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/local_setup.zsh
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/local_setup.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/package.dsv
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/ament_index/resource_index/packages/diff_drive
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/cmake/diff_driveConfig.cmake
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/cmake/diff_driveConfig-version.cmake
+-- Up-to-date: /home/daksh/ros2_ws/install/diff_drive/share/diff_drive/package.xml

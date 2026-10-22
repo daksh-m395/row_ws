@@ -1,0 +1,6 @@
+[console_scripts]
+speed_p = temperature_monitor.speed_pub:main
+speed_s = temperature_monitor.speed_sub:main
+temp_pub = temperature_monitor.temperature_publisher:main
+temp_sub = temperature_monitor.temperature_subscriber:main
+

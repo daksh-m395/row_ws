@@ -1,0 +1,5 @@
+  File "/home/daksh/ros2_ws/install/temperature_monitor/lib/python3.10/site-packages/temperature_monitor/speed_sub.py", line 20
+    elif speed >= 0.5 && speed <=1.5:
+                       ^
+SyntaxError: invalid syntax
+

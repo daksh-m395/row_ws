@@ -1,0 +1,5 @@
+  File "/home/daksh/ros2_ws/install/battery_alert/lib/python3.10/site-packages/battery_alert/battery_publisher.py", line 1
+    mport rclpy
+          ^^^^^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,25 @@
+[0.319s] Invoking command in '/home/daksh/ros2_ws/build/urdf_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daksh/ros2_ws/install/temperature_monitor:/home/daksh/ros2_ws/install/py_srvcli:/home/daksh/ros2_ws/install/my_py_pkg:/home/daksh/ros2_ws/install/my_launch:/home/daksh/ros2_ws/install/battery_alert:/opt/ros/humble /usr/bin/cmake --build /home/daksh/ros2_ws/build/urdf_demo -- -j12 -l12
+[0.354s] Invoked command in '/home/daksh/ros2_ws/build/urdf_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daksh/ros2_ws/install/temperature_monitor:/home/daksh/ros2_ws/install/py_srvcli:/home/daksh/ros2_ws/install/my_py_pkg:/home/daksh/ros2_ws/install/my_launch:/home/daksh/ros2_ws/install/battery_alert:/opt/ros/humble /usr/bin/cmake --build /home/daksh/ros2_ws/build/urdf_demo -- -j12 -l12
+[0.364s] Invoking command in '/home/daksh/ros2_ws/build/urdf_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daksh/ros2_ws/install/temperature_monitor:/home/daksh/ros2_ws/install/py_srvcli:/home/daksh/ros2_ws/install/my_py_pkg:/home/daksh/ros2_ws/install/my_launch:/home/daksh/ros2_ws/install/battery_alert:/opt/ros/humble /usr/bin/cmake --install /home/daksh/ros2_ws/build/urdf_demo
+[0.373s] -- Install configuration: ""
+[0.373s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/launch
+[0.373s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/launch/rsp.launch.py
+[0.373s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/urdf
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/urdf/example_robot.urdf.xacro
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/urdf/example_include.xacro
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/ament_index/resource_index/package_run_dependencies/urdf_demo
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/ament_index/resource_index/parent_prefix_path/urdf_demo
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/ament_prefix_path.sh
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/ament_prefix_path.dsv
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/path.sh
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/environment/path.dsv
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.bash
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.sh
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.zsh
+[0.374s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/local_setup.dsv
+[0.375s] -- Installing: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/package.dsv
+[0.379s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/ament_index/resource_index/packages/urdf_demo
+[0.379s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/cmake/urdf_demoConfig.cmake
+[0.379s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/cmake/urdf_demoConfig-version.cmake
+[0.379s] -- Up-to-date: /home/daksh/ros2_ws/install/urdf_demo/share/urdf_demo/package.xml
+[0.401s] Invoked command in '/home/daksh/ros2_ws/build/urdf_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daksh/ros2_ws/install/temperature_monitor:/home/daksh/ros2_ws/install/py_srvcli:/home/daksh/ros2_ws/install/my_py_pkg:/home/daksh/ros2_ws/install/my_launch:/home/daksh/ros2_ws/install/battery_alert:/opt/ros/humble /usr/bin/cmake --install /home/daksh/ros2_ws/build/urdf_demo
